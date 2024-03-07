@@ -1,4 +1,12 @@
 asdfasf
 
-fucnwef(asdf){
-log(asdfL}
+
+
+
+
+
+
+function love(){
+console.log("sadf")
+}
+>>>>>>> wazona
